@@ -88,7 +88,7 @@ Id c teleguide.info узнать из url канала вида https://www.tele
 
 Провайдеров очень много, они появляются и исчезают. Одновременно с этим не существует единого стандарта указания расположения архивов через m3u плейлист. Каждый провайдер предоставляет их как захочет. Мы добавили и протестировали наиболее популярных провайдеров на наш взгляд.
 
-Если вашего провайдера нет в списке поддерживаемых, то напишите нам в telegram группу (@all_iptv_dune_plugin)[tg://resolve?domain=all_iptv_dune_plugin] или в (issues)[https://github.com/Slev7nm/all-iptv-dune-plugin/issues] - мы его добавим.
+Если вашего провайдера нет в списке поддерживаемых, то напишите нам в telegram группу [@all_iptv_dune_plugin](tg://resolve?domain=all_iptv_dune_plugin) или в [issues](https://github.com/Slev7nm/all-iptv-dune-plugin/issues) - мы его добавим.
 
 > Конфиги неудобно редактировать. Можете сделать с этим что-нибудь?
 Возможно когда-нибудь мы добавим в приложение gui конструктор вместо конфигов, но наверное очень не скоро.
@@ -103,7 +103,7 @@ Id c teleguide.info узнать из url канала вида https://www.tele
 
 > Мой iptv провайдер не предоставляет m3u. Могу ли я все равно как-нибудь использовать вашу программу?
 
-Напишите нам в telegram группу (@all_iptv_dune_plugin)[tg://resolve?domain=all_iptv_dune_plugin] или в (issues)[https://github.com/Slev7nm/all-iptv-dune-plugin/issues]. Мы рассмотрим возможность добавления в парсер дополнительных форматов.
+Напишите нам в telegram группу [@all_iptv_dune_plugin](tg://resolve?domain=all_iptv_dune_plugin) или в [issues](https://github.com/Slev7nm/all-iptv-dune-plugin/issues). Мы рассмотрим возможность добавления в парсер дополнительных форматов.
 
 > Зачем программе требуется доступ в сеть?
 
@@ -127,7 +127,7 @@ Id c teleguide.info узнать из url канала вида https://www.tele
 
 > Хочу помочь в развитии! Как?
 
-Мы тоже хотим чтобы нам помогали! Прямо сейчас нам нужен дизайнер, чтобы отрисовать иконки приложения и групп каналов. Пишите в telegram группу (@all_iptv_dune_plugin)[tg://resolve?domain=all_iptv_dune_plugin] или в (issues)[https://github.com/Slev7nm/all-iptv-dune-plugin/issues].
+Мы тоже хотим чтобы нам помогали! Прямо сейчас нам нужен дизайнер, чтобы отрисовать иконки приложения и групп каналов. Пишите в telegram группу [@all_iptv_dune_plugin](tg://resolve?domain=all_iptv_dune_plugin) или в [issues](https://github.com/Slev7nm/all-iptv-dune-plugin/issues).
 Ну и финансами естественно тоже можете помогать.
 
 > Хочу больше фичь! Почему вы такие медленные? 
