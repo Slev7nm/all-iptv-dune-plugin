@@ -37,12 +37,12 @@ All IPTV - программа для конвертации m3u/m3u8 плейл�
 ## Список проверенных провайдеров
 
 - [itv.live](https://itv.live/) 
-- schuriktv.nethouse.ru 
-- greatiptv.cc 
-- shura.tv 
-- ottclub.cc 
-- gomel-sat.bz 
-- edem.tv       
+- [schuriktv.nethouse.ru](https://schuriktv.nethouse.ru/) 
+- [greatiptv.cc](https://greatiptv.cc/)  
+- [shura.tv](https://shura.tv/) 
+- [ottclub.cc](https://ottclub.cc/) 
+- [gomel-sat.bz](https://gomel-sat.bz/) 
+- [edem.tv](https://edem.tv/) 
 
 ## Добавление собственных иконок, групп и прочего
 
