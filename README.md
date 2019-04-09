@@ -43,6 +43,7 @@ All IPTV - программа для конвертации m3u/m3u8 плейл�
 - [ottclub.cc](https://ottclub.cc/) 
 - [gomel-sat.bz](https://gomel-sat.bz/) 
 - [edem.tv](https://edem.tv/) 
+- [tvclub.cc](https://tvclub.cc/)
 
 ## Добавление собственных иконок, групп и прочего
 
