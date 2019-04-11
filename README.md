@@ -102,6 +102,7 @@ Id c teleguide.info узнать из url канала вида https://www.tele
 Если вашего провайдера нет в списке поддерживаемых, то напишите нам в telegram группу [@all_iptv_dune_plugin](https://taraflex.github.io/tg/#https://t.me/all_iptv_dune_plugin) или в [issues](https://github.com/Slev7nm/all-iptv-dune-plugin/issues) - мы его добавим.
 
 > Конфиги неудобно редактировать. Можете сделать с этим что-нибудь?
+
 Возможно когда-нибудь мы добавим в приложение gui конструктор вместо конфигов, но наверное очень не скоро.
 
 > Планируется открыть исходники приложения?
