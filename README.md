@@ -6,17 +6,17 @@
 All IPTV is a program for converting m3u / m3u8 playlists of any iptv provider into a plugin for viewing iptv on Dune HD Players.
 We do not provide a plugin for a particular provider - you build it yourself!
 
-Main features
-
-    Categories with icons
-    Selection of channel icons
-    Selection of channel schedules from http://www.vsetv.com/ and https://teleguide.info/
-    Archives for verified providers
-    MultiPlaylist
+   Main features
+- Categories with icons
+- Selection of channel icons
+- Selection of channel schedules from http://www.vsetv.com/ and https://teleguide.info/
+- Archives for verified providers
+- MultiPlaylist
 
 How to use
 
 Just drag the m3u / m3u8 playlist from any folder onto the application icon. Demo – https://imgur.com/a/tZLKgYJ
+
 
 Also The Software supports the conversion of multiple playlists in one plugin. Demo - https://imgur.com/a/4sEQxXy
 
@@ -31,23 +31,23 @@ During processing, the program will intellectually try to find icons, a schedule
 
 Unfortunately, the m3u contains only information about groups and channel names, and the channel names themselves are named in any form (often also with typos), that is why a small part of the channels may not be converted in the generated plug-in. In this case, you can watch them, but without additional features. If you have a lot of patience, then you can correct this moment by manually writing configs for them.
 
-List of verified providers
+ List of verified providers
 
-    [itv.live] https://itv.live/
-    [schuriktv.nethouse.ru] https://schuriktv.nethouse.ru/
-    [greatiptv.cc] https://bill.greatiptv.cc/
-    [shura.tv] https://shura.tv/
-    [ottclub.cc] https://ottclub.cc/
-    [gomel-sat.bz] https://gomel-sat.bz/
-    [edem.tv] https://edem.tv/
-    [tvclub.cc] https://tvclub.cc/
-    [shara-tv.org] https://shara-tv.org/
+- [https://itv.live/](https://itv.live/ "https://itv.live/")
+- [https://schuriktv.nethouse.ru/](https://schuriktv.nethouse.ru/ "https://schuriktv.nethouse.ru/")
+- [greatiptv.cc](https://bill.greatiptv.cc/ "[greatiptv.cc]")
+- [shura.tv ](https://shura.tv/ "shura.tv ")
+- [ottclub.cc](https://ottclub.cc/ "[ottclub.cc]")
+- [gomel-sat.bz](https://gomel-sat.bz/ "gomel-sat.bz")
+- [edem.tv](https://edem.tv/ "edem.tv")
+- [tvclub.cc](https://tvclub.cc/ "tvclub.cc")
+- [shara-tv.org](https://shara-tv.org/ "shara-tv.org")
 
 Adding custom icons, groups, and more
 
 You can change the parameters of channels and icons of standard groups.
 
-When converting, the exclusions.xml and conf.yaml files in the program root are taken into program priority, as well as the files .conf.yaml and .exclusions.yaml, which are located next to the m3u playlist. Configs next to m3u have higher priority. Thus, you have the ability to configure part of the parameters equally for all m3u, and some providers of m3u individually.
+When converting, the exclusions.xml and conf.yaml files in the program root are taken into program priority, as well as the files <m3u name> .conf.yaml and <m3u name> .exclusions.yaml, which are located next to the m3u playlist. Configs next to m3u have higher priority. Thus, you have the ability to configure part of the parameters equally for all m3u, and some providers of m3u individually.
 
 Examples of settings are in the examples folder.
 
@@ -63,28 +63,31 @@ For convenience, you can use the online editor with checking yaml syntax https:/
 
 It is not recommended to change the standard icons in the default_groups_icons folder, as they will be reset when the program is updated.
 
-Customize Channels
+Customize Channels 
 
 The exclusions.xml file allows you to customize icons and channel schedules.
 
-    <?xml version="1.0" encoding="utf-8" ?>
-    <tv_info>
-      <tv_channels>
-        <tv_channel>
-          <caption>name of the channel from m3u</caption>
-          <epg_id>id from vsetv.com</epg_id>
-          <tvg_id>id from teleguide.info</tvg_id>
-          <icon_url>icon</icon_url>
-        </tv_channel>
-        <tv_channel>
-          <caption>name of the channel from m3u</caption>
-          <epg_id>id from vsetv.com</epg_id>
-          <tvg_id>id from teleguide.info</tvg_id>
-          <icon_url>icon</icon_url>
-        </tv_channel>
-        <!-- и т.д ... -->
-      </tv_channels>
-    </tv_info>
+```xml
+<?xml version="1.0" encoding="utf-8" ?>
+<tv_info>
+  <tv_channels>
+    <tv_channel>
+      <caption>name of the channel from m3u m3u</caption>
+      <epg_id>id from vsetv.com</epg_id>
+      <tvg_id>id from teleguide.info</tvg_id>
+      <icon_url>icon</icon_url>
+    </tv_channel>
+    <tv_channel>
+      <caption>name of the channel from m3u m3u</caption>
+      <epg_id>id from vsetv.com</epg_id>
+      <tvg_id>id from teleguide.info</tvg_id>
+      <icon_url>icon</icon_url>
+    </tv_channel>
+    <!-- и т.д ... -->
+  </tv_channels>
+</tv_info>
+```
+
 
 Id from vsetv.com can be found from the channel url type http://www.vsetv.com/schedule_channel_1071_day_2019-04-04.html The number between channel_ and _day is id (1071).
 
@@ -125,11 +128,11 @@ You can view with the sniffer that no additional data is transmitted.
 
     So access tokens from my playlists are safe?
 
-Yes. But remember - on the Internet, no one knows that you are a cat …
+Yes. But remember - on the Internet, no one knows that you are a cat ...
 
     Nothing works! You are the hands!
 
-Well … nothing working at all … probably …
+Well ... nothing working at all ... probably ...
 
 The world is ruled by money! So If You Left Handed Hands This can be compensated by the involvement of additional developers, with two normal working hands.
 
@@ -146,6 +149,7 @@ The developer of the converter lives in the end of the world. Someday the mail w
     Where to contact directly with the developer?
 
 Here -> @Taraflex
+
 Support Group Here - https://t.me/all_iptv_dune_plugin
 
 
