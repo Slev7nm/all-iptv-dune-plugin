@@ -71,16 +71,16 @@ The exclusions.xml file allows you to customize icons and channel schedules.
     <tv_info>
       <tv_channels>
         <tv_channel>
-          <caption>имя канала из m3u</caption>
-          <epg_id>id c vsetv.com</epg_id>
-          <tvg_id>id c teleguide.info</tvg_id>
-          <icon_url>иконка</icon_url>
+          <caption>name of the channel from m3u</caption>
+          <epg_id>id from vsetv.com</epg_id>
+          <tvg_id>id from teleguide.info</tvg_id>
+          <icon_url>icon</icon_url>
         </tv_channel>
         <tv_channel>
-          <caption>имя канала из m3u</caption>
-          <epg_id>id c vsetv.com</epg_id>
-          <tvg_id>id c teleguide.info</tvg_id>
-          <icon_url>иконка</icon_url>
+          <caption>name of the channel from m3u</caption>
+          <epg_id>id from vsetv.com</epg_id>
+          <tvg_id>id from teleguide.info</tvg_id>
+          <icon_url>icon</icon_url>
         </tv_channel>
         <!-- и т.д ... -->
       </tv_channels>
