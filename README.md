@@ -131,7 +131,7 @@ You can view with the sniffer that no additional data is transmitted.
 Yes. Simply create the notelemetry.txt file in the application directory. Remember that the collected error statistics helps to improve the 
 algorithms for selecting icons and channel schedules.
 
-   > So the access tokens in my playlists are safe?
+    So the access tokens in my playlists are safe?
    Yes
 
 
