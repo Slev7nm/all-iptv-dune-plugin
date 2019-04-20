@@ -61,7 +61,7 @@ The icon can be a local or relative path or http(s) address (during the conversi
 
 For convenience, you can use the online editor with checking yaml syntax https://onlineyamltools.com/edit-yaml
 
-It is not recommended to change the standard icons in the default_groups_icons folder, as they will be reset when the program is updated.
+It is not recommended to change the standard icons in the icons, as they will be reset when the program is updated.
 
 Customize Channels 
 
@@ -120,15 +120,20 @@ Write us in the telegram group @all_iptv_dune_plugin or in issues. We will consi
 
     Why does the program need access to the network?
 
-To download the current list of channels from vsetv.com and teleguide.info and channel icons, as well as to check for updates.
+To download the unrecognizable icons list of channels from vsetv.com and teleguide.info and channel icons, to well as to check for updates and also to send erorrs if there were in proccess of convertion
 
 The program comes with a certain set of icons, but it is not always enough.
 
 You can view with the sniffer that no additional data is transmitted.
 
-    So access tokens from my playlists are safe?
+    I do not want to send anything anywhere! Can you turn off your godless telemetry?
 
-Yes. But remember - on the Internet, no one knows that you are a cat ...
+Yes. Simply create the notelemetry.txt file in the application directory. Remember that the collected error statistics helps to improve the 
+algorithms for selecting icons and channel schedules.
+
+   > So the access tokens in my playlists are safe?
+   Yes
+
 
     Nothing works! You are the hands!
 
@@ -142,11 +147,6 @@ Link to donate in the application.
 
 We also want to help us! Right now, we need a designer to draw application icons and channel groups. Write to the telegram group @all_iptv_dune_plugin or to issues. Well, of course, you can also help with finances.
 
-    I want more features! Why are you so slow?
-
-The developer of the converter lives in the end of the world. Someday the mail will figure out how to deliver a dune hd player to him. Write software without a device is pain and frustration.
-
-    Where to contact directly with the developer?
 
 Here -> @Taraflex
 
