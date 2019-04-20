@@ -3,70 +3,71 @@
 
 # [EN]
 
+[Download latest version](https://github.com/Slev7nm/all-iptv-dune-plugin/releases/latest)
+
 All IPTV is a program for converting m3u / m3u8 playlists of any iptv provider into a plugin for viewing iptv on Dune HD Players.
 We do not provide a plugin for a particular provider - you build it yourself!
 
-   Main features
+## Main features
+
 - Categories with icons
 - Selection of channel icons
 - Selection of channel schedules from http://www.vsetv.com/ and https://teleguide.info/
 - Archives for verified providers
 - MultiPlaylist
 
-How to use
+## How to use
 
 Just drag the m3u / m3u8 playlist from any folder onto the application icon. Demo – https://imgur.com/a/tZLKgYJ
 
-
 Also The Software supports the conversion of multiple playlists in one plugin. Demo - https://imgur.com/a/4sEQxXy
 
-Option to switch playlists in the generated plugin on the settings page ( Button “D” )
+Option to switch playlists in the generated plugin on the settings page (Button "D")
 
-Working With The Software
+## Working With The Software
 
-If your provider provides the ability to download playlist channels in the formats m3u / m3u8, then with the help of this converter you can turn it into a plugin for Dune HD with your own hands. We tried to reduce the number of settings to a minimum and reduce the conversion process to a few clicks and the plugin is ready to installation.
+If your provider provides the ability to download playlist channels in the formats m3u/m3u8, then with the help of this converter you can turn it into a plugin for Dune HD with your own hands. We tried to reduce the number of settings to a minimum and reduce the conversion process to a few clicks and the plugin is ready to installation.
 
 No services! No paid subscriptions! No restrictions - download the program only once and Convert as much as you want.
 During processing, the program will intellectually try to find icons, a schedule, and archives to the list of channels from m3u playlist that you choose to convert.
 
 Unfortunately, the m3u contains only information about groups and channel names, and the channel names themselves are named in any form (often also with typos), that is why a small part of the channels may not be converted in the generated plug-in. In this case, you can watch them, but without additional features. If you have a lot of patience, then you can correct this moment by manually writing configs for them.
 
- List of verified providers
+## List of verified providers
 
-- [https://itv.live/](https://itv.live/ "https://itv.live/")
-- [https://schuriktv.nethouse.ru/](https://schuriktv.nethouse.ru/ "https://schuriktv.nethouse.ru/")
-- [greatiptv.cc](https://bill.greatiptv.cc/ "[greatiptv.cc]")
-- [shura.tv ](https://shura.tv/ "shura.tv ")
-- [ottclub.cc](https://ottclub.cc/ "[ottclub.cc]")
-- [gomel-sat.bz](https://gomel-sat.bz/ "gomel-sat.bz")
-- [edem.tv](https://edem.tv/ "edem.tv")
-- [tvclub.cc](https://tvclub.cc/ "tvclub.cc")
-- [shara-tv.org](https://shara-tv.org/ "shara-tv.org")
+- [itv.live](https://itv.live/) (supported playlists hls.m3u8, perfectpl.m3u8, halvatv.m3u8; partial supported playlists logom3u.m3u8, ottplayeres.m3u8, ssiptv.m3u8)
+- [schuriktv.nethouse.ru](https://schuriktv.nethouse.ru/)
+- [greatiptv.cc](https://bill.greatiptv.cc/) (you can get a working playlist at t.greatiptv.cc/pl/{your token}/playlist.m3u; playlists from account will not work)  
+- [shura.tv](https://shura.tv/)
+- [ottclub.cc](https://ottclub.cc/)
+- [gomel-sat.bz](https://gomel-sat.bz/)
+- [edem.tv](https://edem.tv/)
+- [tvclub.cc](https://tvclub.cc/)
+- [shara-tv.org](https://shara-tv.org/)
 
-Adding custom icons, groups, and more
+## Adding custom icons, groups, and more
 
 You can change the parameters of channels and icons of standard groups.
 
-When converting, the exclusions.xml and conf.yaml files in the program root are taken into program priority, as well as the files <m3u name> .conf.yaml and <m3u name> .exclusions.yaml, which are located next to the m3u playlist. Configs next to m3u have higher priority. Thus, you have the ability to configure part of the parameters equally for all m3u, and some providers of m3u individually.
+When converting, the exclusions.xml and conf.yaml files in the program root are taken into program priority, as well as the files <m3u name>.conf.yaml and <m3u name>.exclusions.yaml, which are located next to the m3u playlist. Configs next to m3u have higher priority. Thus, you have the ability to configure part of the parameters equally for all m3u, and some providers of m3u individually.
 
 Examples of settings are in the examples folder.
 
-Setting Up Groups
+### Setting Up Groups
 
 The conf.yaml file contains a list of channel groups and icons for them in yaml format.
-
-‘name of the group from m3u’ : ‘path to icon’
-
+```yaml
+'name of the group from m3u': 'path to icon'
+```
 The icon can be a local or relative path or http(s) address (during the conversion, such images will be downloaded).
 
 For convenience, you can use the online editor with checking yaml syntax https://onlineyamltools.com/edit-yaml
 
 It is not recommended to change the standard icons in the default_groups_icons folder, as they will be reset when the program is updated.
 
-Customize Channels 
+### Customize Channels 
 
 The exclusions.xml file allows you to customize icons and channel schedules.
-
 ```xml
 <?xml version="1.0" encoding="utf-8" ?>
 <tv_info>
@@ -87,38 +88,37 @@ The exclusions.xml file allows you to customize icons and channel schedules.
   </tv_channels>
 </tv_info>
 ```
-
-
 Id from vsetv.com can be found from the channel url type http://www.vsetv.com/schedule_channel_1071_day_2019-04-04.html The number between channel_ and _day is id (1071).
 
 Id from teleguide.info find out from the url of the channel like https://www.teleguide.info/kanal1006_20190326.html The number between kanal and _ is id (1006).
 
 The icon can be a local absolute or relative path or http (s) address (during the conversion, such images will be downloaded).
-Questions and answers
 
-    Archives do not work.
+## Questions and answers
+
+> Archives do not work.
 
 There are a lot of providers, they appear and disappear. At the same time, there is no single standard for specifying the syntax of archives via the m3u playlist. Each provider provides them as they feel needed to. We have added and tested the most popular providers in our opinion.
 
-If your provider is not in the list of supported, then write to us in the telegram group @all_iptv_dune_plugin or in issues - we will add it.
+If your provider is not in the list of supported, then write to us in the telegram group [@all_iptv_dune_plugin](https://taraflex.github.io/tg/#https://t.me/all_iptv_dune_plugin) or in [issues](https://github.com/Slev7nm/all-iptv-dune-plugin/issues) - we will add it.
 
-    Configs inconvenient to edit. Can you do something about it?
+> Configs inconvenient to edit. Can you do something about it?
 
 Maybe someday we will add a constructor instead of config files to the gui application, but probably not very soon.
 
-    Do you plan to open the source of the application?
+> Do you plan to open the source of the application?
 
 Not yet. They are fast coded and not commented , We are ashamed of the source code. the source of php plugin can be viewed by unpacking the generated zip archive.
 
-    Your standard pictures for channel groups are terrible.
+> Your standard pictures for channel groups are terrible.
 
 We do not mind if someone draws them more decently or offers alternative options with a free license.
 
-    My iptv provider does not provide m3u. Can I still use your program somehow?
+> My iptv provider does not provide m3u. Can I still use your program somehow?
 
-Write us in the telegram group @all_iptv_dune_plugin or in issues. We will consider the possibility of adding additional formats to the parser.
+Write us in the telegram group [@all_iptv_dune_plugin](https://taraflex.github.io/tg/#https://t.me/all_iptv_dune_plugin) or in [issues](https://github.com/Slev7nm/all-iptv-dune-plugin/issues). We will consider the possibility of adding additional formats to the parser.
 
-    Why does the program need access to the network?
+> Why does the program need access to the network?
 
 To download the current list of channels from vsetv.com and teleguide.info and channel icons, as well as to check for updates.
 
@@ -126,35 +126,25 @@ The program comes with a certain set of icons, but it is not always enough.
 
 You can view with the sniffer that no additional data is transmitted.
 
-    So access tokens from my playlists are safe?
+> So access tokens from my playlists are safe?
 
 Yes. But remember - on the Internet, no one knows that you are a cat ...
 
-    Nothing works! You are the hands!
+> Nothing works! You are the hands!
 
-Well ... nothing working at all ... probably ...
+Well... nothing working at all... probably...
 
 The world is ruled by money! So If You Left Handed Hands This can be compensated by the involvement of additional developers, with two normal working hands.
 
 Link to donate in the application.
 
-    I want to help in the development! How?
+> I want to help in the development! How?
 
-We also want to help us! Right now, we need a designer to draw application icons and channel groups. Write to the telegram group @all_iptv_dune_plugin or to issues. Well, of course, you can also help with finances.
+We also want to help us! Right now, we need a designer to draw application icons and channel groups. Write to the telegram group [@all_iptv_dune_plugin](https://taraflex.github.io/tg/#https://t.me/all_iptv_dune_plugin) or to [issues](https://github.com/Slev7nm/all-iptv-dune-plugin/issues). Well, of course, you can also help with finances.
 
-    I want more features! Why are you so slow?
+> I want more features! Why are you so slow?
 
-The developer of the converter lives in the end of the world. Someday the mail will figure out how to deliver a dune hd player to him. Write software without a device is pain and frustration.
-
-    Where to contact directly with the developer?
-
-Here -> @Taraflex
-
-Support Group Here - https://t.me/all_iptv_dune_plugin
-
-
-
-[Download latest version](https://github.com/Slev7nm/all-iptv-dune-plugin/releases/latest)
+¯\\_(ツ)_/¯
 
 # [RU]
 
@@ -164,6 +154,7 @@ All IPTV - программа для конвертации m3u/m3u8 плейл�
 Мы не предоставляем плагин под какого-то конкретного провайдера - вы собираете его сами!
 
 ## Основные возможности
+
 - Категории с иконками
 - Подбор иконок каналов
 - Подбор расписания каналов с http://www.vsetv.com/ и https://teleguide.info/
@@ -171,6 +162,7 @@ All IPTV - программа для конвертации m3u/m3u8 плейл�
 - Мультиплейлист
 
 ## Как использовать
+
 Просто перетащите m3u/m3u8 плейлист из любой папки на иконку приложения. Демо - https://imgur.com/a/tZLKgYJ
 
 Также поддерживается конвертация нескольких плейлистов в один плагин. Демо - https://imgur.com/a/4sEQxXy
@@ -178,6 +170,7 @@ All IPTV - программа для конвертации m3u/m3u8 плейл�
 Переключать плейлисты в сгенерированном плагине вы сможете на странице настроек. 
 
 ## Принцип работы
+
 Если ваш провайдер предоставляет возможность скачать плейлист каналов в форматах m3u/m3u8, то с помощью данного конвертера можно превратить его в плагин для Dune HD своими руками. Мы постарались свести число настроек к минимуму и свести процесс конвертации к нескольким нажатиям на enter.
 
 Никаких сервисов! Никаких платных подписок! Никаких ограничений - качаем программу лишь раз и обрабатываем хоть тысячу плейлистов. 
@@ -187,9 +180,9 @@ All IPTV - программа для конвертации m3u/m3u8 плейл�
 
 ## Список проверенных провайдеров
 
-- [itv.live](https://itv.live/) 
+- [itv.live](https://itv.live/) (поддерживаемые плейлисты hls.m3u8, perfectpl.m3u8, halvatv.m3u8; чуть менее подходят logom3u.m3u8, ottplayeres.m3u8, ssiptv.m3u8)
 - [schuriktv.nethouse.ru](https://schuriktv.nethouse.ru/) 
-- [greatiptv.cc](https://greatiptv.cc/)  
+- [greatiptv.cc](https://greatiptv.cc/) (получить рабочий плейлист можно по адресу t.greatiptv.cc/pl/{ваш токен}/playlist.m3u; плейлисты из личного кабинета работать не будут)  
 - [shura.tv](https://shura.tv/) 
 - [ottclub.cc](https://ottclub.cc/) 
 - [gomel-sat.bz](https://gomel-sat.bz/) 
@@ -206,6 +199,7 @@ All IPTV - программа для конвертации m3u/m3u8 плейл�
 Примеры настроек смотрите в папке examples.
 
 ### Настройка групп
+
 Файл conf.yaml содержит список групп каналов и иконки к ним в yaml формате 
 ```yaml
 'имя группы из m3u':'иконка'
@@ -295,7 +289,7 @@ Id c teleguide.info узнать из url канала вида https://www.tele
 
 > Хочу помочь в развитии! Как?
 
-Мы тоже хотим чтобы нам помогали! Прямо сейчас нам нужен дизайнер, чтобы отрисовать иконки приложения и групп каналов. Пишите в telegram группу [@all_iptv_dune_plugin](https://taraflex.github.io/tg/#https://t.me/all_iptv_dune_plugin) или в [issues](https://github.com/Slev7nm/all-iptv-dune-plugin/issues).
+Мы тоже хотим, чтобы нам помогали! Прямо сейчас нам нужен дизайнер, чтобы отрисовать иконки приложения и групп каналов. Пишите в telegram группу [@all_iptv_dune_plugin](https://taraflex.github.io/tg/#https://t.me/all_iptv_dune_plugin) или в [issues](https://github.com/Slev7nm/all-iptv-dune-plugin/issues).
 Ну и финансами естественно тоже можете помогать.
 
 > Хочу больше фичь! Почему вы такие медленные? 
