@@ -36,7 +36,6 @@ Unfortunately, the m3u contains only information about groups and channel names,
 ## List of verified providers
 
 - [itv.live](https://itv.live/) (supported playlists hls.m3u8, perfectpl.m3u8, halvatv.m3u8; partial supported playlists logom3u.m3u8, ottplayeres.m3u8, ssiptv.m3u8)
-- [schuriktv.nethouse.ru](https://schuriktv.nethouse.ru/)
 - [greatiptv.cc](https://bill.greatiptv.cc/) (you can get a working playlist at t.greatiptv.cc/pl/{your token}/playlist.m3u; playlists from account will not work)  
 - [shura.tv](https://shura.tv/)
 - [ottclub.cc](https://ottclub.cc/)
@@ -44,6 +43,7 @@ Unfortunately, the m3u contains only information about groups and channel names,
 - [edem.tv](https://edem.tv/)
 - [tvclub.cc](https://tvclub.cc/)
 - [shara-tv.org](https://shara-tv.org/)
+- ~~[schuriktv.nethouse.ru](https://schuriktv.nethouse.ru/)~~ (clarification required - not all m3u supported)
 
 ## Adding custom icons, groups, and more
 
@@ -57,7 +57,7 @@ Examples of settings are in the examples folder.
 
 The conf.yaml file contains a list of channel groups and icons for them in yaml format.
 ```yaml
-'name of the group from m3u': 'path to icon'
+'name of the group from m3u':'path to icon'
 ```
 The icon can be a local or relative path or http(s) address (during the conversion, such images will be downloaded).
 
@@ -172,7 +172,7 @@ All IPTV - программа для конвертации m3u/m3u8 плейл�
 
 Также поддерживается конвертация нескольких плейлистов в один плагин. Демо - https://imgur.com/a/4sEQxXy
 
-Переключать плейлисты в сгенерированном плагине вы сможете на странице настроек. 
+Переключать плейлисты в сгенерированном плагине вы сможете на странице настроек (кнопка "D"). 
 
 ## Принцип работы
 
@@ -186,7 +186,6 @@ All IPTV - программа для конвертации m3u/m3u8 плейл�
 ## Список проверенных провайдеров
 
 - [itv.live](https://itv.live/) (поддерживаемые плейлисты hls.m3u8, perfectpl.m3u8, halvatv.m3u8; чуть менее подходят logom3u.m3u8, ottplayeres.m3u8, ssiptv.m3u8)
-- [schuriktv.nethouse.ru](https://schuriktv.nethouse.ru/) 
 - [greatiptv.cc](https://greatiptv.cc/) (получить рабочий плейлист можно по адресу t.greatiptv.cc/pl/{ваш токен}/playlist.m3u; плейлисты из личного кабинета работать не будут)  
 - [shura.tv](https://shura.tv/) 
 - [ottclub.cc](https://ottclub.cc/) 
@@ -194,6 +193,7 @@ All IPTV - программа для конвертации m3u/m3u8 плейл�
 - [edem.tv](https://edem.tv/) 
 - [tvclub.cc](https://tvclub.cc/)
 - [shara-tv.org](https://shara-tv.org/)
+- ~~[schuriktv.nethouse.ru](https://schuriktv.nethouse.ru/)~~ (требуется уточнение - подходят не все m3u)
 
 ## Добавление собственных иконок, групп и прочего
 
