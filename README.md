@@ -43,7 +43,8 @@ Unfortunately, the m3u contains only information about groups and channel names,
 - [edem.tv](https://edem.tv/)
 - [tvclub.cc](https://tvclub.cc/)
 - [shara-tv.org](https://shara-tv.org/)
-- ~~[schuriktv.nethouse.ru](https://schuriktv.nethouse.ru/)~~ (clarification required - not all m3u supported)
+- [schuriktv.nethouse.ru](https://schuriktv.nethouse.ru/) (supported playlists "Playlist M3U", "SIP Player M3U", "SIP Player M3U8")
+- [tvoetv.in.ua](https://tvoetv.in.ua/) (without archives)
 
 ## Adding custom icons, groups, and more
 
@@ -57,7 +58,7 @@ Examples of settings are in the examples folder.
 
 The conf.yaml file contains a list of channel groups and icons for them in yaml format.
 ```yaml
-'name of the group from m3u':'path to icon'
+'name of the group from m3u':'icon'
 ```
 The icon can be a local or relative path or http(s) address (during the conversion, such images will be downloaded).
 
@@ -92,7 +93,14 @@ Id from vsetv.com can be found from the channel url type http://www.vsetv.com/sc
 
 Id from teleguide.info find out from the url of the channel like https://www.teleguide.info/kanal1006_20190326.html The number between kanal and _ is id (1006).
 
-The icon can be a local absolute or relative path or http (s) address (during the conversion, such images will be downloaded).
+The icon can be a local absolute or relative path or http(s) address (during the conversion, such images will be downloaded).
+
+### Main application icon
+
+Like setting up group icons in conf.yaml, add a line or change an existing one.
+```yaml
+_:'icon'
+```
 
 ## Questions and answers
 
@@ -145,7 +153,9 @@ Link to donate in the application.
 
 > I want to help in the development! How?
 
-We also want to help us! Right now, we need a designer to draw application icons and channel groups. Write to the telegram group [@all_iptv_dune_plugin](https://taraflex.github.io/tg/#https://t.me/all_iptv_dune_plugin) or to [issues](https://github.com/Slev7nm/all-iptv-dune-plugin/issues). Well, of course, you can also help with finances.
+We also want to help us! Right now, we need a designer to draw application icons and channel groups. Write to the telegram group [@all_iptv_dune_plugin](https://taraflex.github.io/tg/#https://t.me/all_iptv_dune_plugin) or to [issues](https://github.com/Slev7nm/all-iptv-dune-plugin/issues). 
+Well, of course, you can also help with finances.
+https://ko-fi.com/alliptv
 
 > I want more features! Why are you so slow?
 
@@ -193,7 +203,8 @@ All IPTV - программа для конвертации m3u/m3u8 плейл�
 - [edem.tv](https://edem.tv/) 
 - [tvclub.cc](https://tvclub.cc/)
 - [shara-tv.org](https://shara-tv.org/)
-- ~~[schuriktv.nethouse.ru](https://schuriktv.nethouse.ru/)~~ (требуется уточнение - подходят не все m3u)
+- [schuriktv.nethouse.ru](https://schuriktv.nethouse.ru/) (поддерживаемые плейлисты "Playlist M3U", "SIP Player M3U", "SIP Player M3U8")
+- [tvoetv.in.ua](https://tvoetv.in.ua/) (без архивов)
 
 ## Добавление собственных иконок, групп и прочего
 
@@ -243,6 +254,13 @@ Id c vsetv.com можно узнать из url канала вида http://www
 Id c teleguide.info узнать из url канала вида https://www.teleguide.info/kanal1006_20190326.html Число между kanal и _ есть id (1006).
 
 Иконка может быть локальным абсолютным или относительным путем либо http(s) адресом (во время конвертации такие изображения будут скачаны).
+
+### Главная иконка приложения
+
+Подобно настройке иконок групп в conf.yaml добавьте строку или измените существующую
+```yaml
+_:'иконка'
+```
 
 ## Вопросы и ответы
 
@@ -296,6 +314,7 @@ Id c teleguide.info узнать из url канала вида https://www.tele
 
 Мы тоже хотим, чтобы нам помогали! Прямо сейчас нам нужен дизайнер, чтобы отрисовать иконки приложения и групп каналов. Пишите в telegram группу [@all_iptv_dune_plugin](https://taraflex.github.io/tg/#https://t.me/all_iptv_dune_plugin) или в [issues](https://github.com/Slev7nm/all-iptv-dune-plugin/issues).
 Ну и финансами естественно тоже можете помогать.
+https://ko-fi.com/alliptv
 
 > Хочу больше фичь! Почему вы такие медленные? 
 
