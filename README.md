@@ -39,12 +39,13 @@ Unfortunately, the m3u contains only information about groups and channel names,
 - [greatiptv.cc](https://bill.greatiptv.cc/) (you can get a working playlist at t.greatiptv.cc/pl/{your token}/playlist.m3u; playlists from account will not work)  
 - [shura.tv](https://shura.tv/)
 - [ottclub.cc](https://ottclub.cc/)
-- [gomel-sat.bz](https://gomel-sat.bz/)
+- [gomel-sat.bz](https://cbilling.tv/)
 - [edem.tv](https://edem.tv/)
 - [tvclub.cc](https://tvclub.cc/)
 - [shara-tv.org](https://shara-tv.org/)
 - [schuriktv.nethouse.ru](https://schuriktv.nethouse.ru/) (supported playlists "Playlist M3U", "SIP Player M3U", "SIP Player M3U8")
 - [tvoetv.in.ua](https://tvoetv.in.ua/) (without archives)
+- [https://strah.tv](https://strah.tv) (without archives)
 
 ## Adding custom icons, groups, and more
 
@@ -199,12 +200,13 @@ All IPTV - программа для конвертации m3u/m3u8 плейл�
 - [greatiptv.cc](https://greatiptv.cc/) (получить рабочий плейлист можно по адресу t.greatiptv.cc/pl/{ваш токен}/playlist.m3u; плейлисты из личного кабинета работать не будут)  
 - [shura.tv](https://shura.tv/) 
 - [ottclub.cc](https://ottclub.cc/) 
-- [gomel-sat.bz](https://gomel-sat.bz/) 
+- [gomel-sat.bz](https://cbilling.tv/) 
 - [edem.tv](https://edem.tv/) 
 - [tvclub.cc](https://tvclub.cc/)
 - [shara-tv.org](https://shara-tv.org/)
 - [schuriktv.nethouse.ru](https://schuriktv.nethouse.ru/) (поддерживаемые плейлисты "Playlist M3U", "SIP Player M3U", "SIP Player M3U8")
 - [tvoetv.in.ua](https://tvoetv.in.ua/) (без архивов)
+- [https://strah.tv](https://strah.tv) (без архивов)
 
 ## Добавление собственных иконок, групп и прочего
 
