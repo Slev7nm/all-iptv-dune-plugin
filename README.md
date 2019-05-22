@@ -22,7 +22,7 @@ Just drag the m3u / m3u8 playlist from any folder onto the application icon. Dem
 
 Also The Software supports the conversion of multiple playlists in one plugin. Demo - https://imgur.com/a/4sEQxXy
 
-Option to switch playlists in the generated plugin on the settings page (Button "D")
+Option to switch playlists in the generated plugin on the settings page
 
 ## Working With The Software
 
@@ -39,13 +39,24 @@ Unfortunately, the m3u contains only information about groups and channel names,
 - [greatiptv.cc](https://bill.greatiptv.cc/) (you can get a working playlist at t.greatiptv.cc/pl/{your token}/playlist.m3u; playlists from account will not work)  
 - [shura.tv](https://shura.tv/)
 - [ottclub.cc](https://ottclub.cc/)
-- [gomel-sat.bz](https://cbilling.tv/)
+- [cbilling.tv](https://cbilling.tv/)
 - [edem.tv](https://edem.tv/)
 - [tvclub.cc](https://tvclub.cc/)
 - [shara-tv.org](https://shara-tv.org/)
 - [schuriktv.nethouse.ru](https://schuriktv.nethouse.ru/) (supported playlists "Playlist M3U", "SIP Player M3U", "SIP Player M3U8")
-- [tvoetv.in.ua](https://tvoetv.in.ua/) (without archives)
-- [https://strah.tv](https://strah.tv) (without archives)
+- [tv.team](http://tv.team/) (supported playlists "HLS", "HLS + archives", "Halva TV", "MPEG-TS")
+- [sharavoz.tv](https://www.sharavoz.tv/) (channel list with archives support see in your account)
+
+## List of verified providers (without archives)
+
+- [ip-tv.club](http://ip-tv.club/) 
+- [fox-tv.fun](http://shop.fox-tv.fun/) ("M3U Plus" playlist recommended)
+- [tvoetv.in.ua](https://tvoetv.in.ua/)
+- [strah.tv](https://strah.tv/) (it is recommended to enable the option "MPEG-2 TS" before downloading a playlist)
+- [my.1ott.net](http://my.1ott.net/) ("ottnavm3u8.m3u8" playlist recommended)
+- [shara.club](https://shara.club/)
+- [voron.info](http://voron.info/)
+- [sovok.tv](http://sovok.tv/) (required to enable "Группировать по категориям" -> "Спец полями" before downloading a playlist)
 
 ## Adding custom icons, groups, and more
 
@@ -127,6 +138,13 @@ We do not mind if someone draws them more decently or offers alternative options
 
 Write us in the telegram group [@all_iptv_dune_plugin](https://taraflex.github.io/tg/#https://t.me/all_iptv_dune_plugin) or in [issues](https://github.com/Slev7nm/all-iptv-dune-plugin/issues). We will consider the possibility of adding additional formats to the parser.
 
+> I want to help in the development! How?
+
+We also want to help us! Right now, we need a designer to draw application icons and channel groups. Write to the telegram group [@all_iptv_dune_plugin](https://taraflex.github.io/tg/#https://t.me/all_iptv_dune_plugin) or to [issues](https://github.com/Slev7nm/all-iptv-dune-plugin/issues). 
+Well, of course, you can also help with finances.
+
+[<img src="https://az743702.vo.msecnd.net/cdn/kofi5.png?v=2" width="202" alt="https://ko-fi.com/alliptv"/>](https://ko-fi.com/alliptv)
+
 > Why does the program need access to the network?
 
 To download the unrecognizable icons list of channels from vsetv.com and teleguide.info and channel icons, to well as to check for updates and also to send erorrs if there were in proccess of convertion
@@ -150,13 +168,7 @@ Well... nothing working at all... probably...
 
 The world is ruled by money! So If You Left Handed Hands This can be compensated by the involvement of additional developers, with two normal working hands.
 
-Link to donate in the application.
-
-> I want to help in the development! How?
-
-We also want to help us! Right now, we need a designer to draw application icons and channel groups. Write to the telegram group [@all_iptv_dune_plugin](https://taraflex.github.io/tg/#https://t.me/all_iptv_dune_plugin) or to [issues](https://github.com/Slev7nm/all-iptv-dune-plugin/issues). 
-Well, of course, you can also help with finances.
-https://ko-fi.com/alliptv
+[<img src="https://az743702.vo.msecnd.net/cdn/kofi5.png?v=2" width="202" alt="https://ko-fi.com/alliptv"/>](https://ko-fi.com/alliptv)
 
 > I want more features! Why are you so slow?
 
@@ -183,7 +195,7 @@ All IPTV - программа для конвертации m3u/m3u8 плейл�
 
 Также поддерживается конвертация нескольких плейлистов в один плагин. Демо - https://imgur.com/a/4sEQxXy
 
-Переключать плейлисты в сгенерированном плагине вы сможете на странице настроек (кнопка "D"). 
+Переключать плейлисты в сгенерированном плагине вы сможете на странице настроек. 
 
 ## Принцип работы
 
@@ -200,13 +212,24 @@ All IPTV - программа для конвертации m3u/m3u8 плейл�
 - [greatiptv.cc](https://greatiptv.cc/) (получить рабочий плейлист можно по адресу t.greatiptv.cc/pl/{ваш токен}/playlist.m3u; плейлисты из личного кабинета работать не будут)  
 - [shura.tv](https://shura.tv/) 
 - [ottclub.cc](https://ottclub.cc/) 
-- [gomel-sat.bz](https://cbilling.tv/) 
+- [cbilling.tv](https://cbilling.tv/) 
 - [edem.tv](https://edem.tv/) 
 - [tvclub.cc](https://tvclub.cc/)
 - [shara-tv.org](https://shara-tv.org/)
 - [schuriktv.nethouse.ru](https://schuriktv.nethouse.ru/) (поддерживаемые плейлисты "Playlist M3U", "SIP Player M3U", "SIP Player M3U8")
-- [tvoetv.in.ua](https://tvoetv.in.ua/) (без архивов)
-- [https://strah.tv](https://strah.tv) (без архивов)
+- [tv.team](http://tv.team/) (поддерживаемые плейлисты "HLS", "HLS + архивы", "Halva TV", "MPEG-TS")
+- [sharavoz.tv](https://www.sharavoz.tv/) (список каналов с архивами смотреть в личном кабинете)
+
+## Список проверенных провайдеров (без архивов)
+
+- [ip-tv.club](http://ip-tv.club/) 
+- [fox-tv.fun](http://shop.fox-tv.fun/) (рекомендуется "M3U Plus" плейлист)
+- [tvoetv.in.ua](https://tvoetv.in.ua/)
+- [strah.tv](https://strah.tv/) (рекомендуется включить опцию "MPEG-2 TS" перед скачиванием плейлиста)
+- [my.1ott.net](http://my.1ott.net/) (рекомендуется "ottnavm3u8.m3u8" плейлист)
+- [shara.club](https://shara.club/)
+- [voron.info](http://voron.info/)
+- [sovok.tv](http://sovok.tv/) (требуется включить "Группировать по категориям" -> "Спец полями" перед скачиванием плейлиста)
 
 ## Добавление собственных иконок, групп и прочего
 
@@ -288,6 +311,13 @@ _:'иконка'
 
 Напишите нам в telegram группу [@all_iptv_dune_plugin](https://taraflex.github.io/tg/#https://t.me/all_iptv_dune_plugin) или в [issues](https://github.com/Slev7nm/all-iptv-dune-plugin/issues). Мы рассмотрим возможность добавления в парсер дополнительных форматов.
 
+> Хочу помочь в развитии! Как?
+
+Мы тоже хотим, чтобы нам помогали! Прямо сейчас нам нужен дизайнер, чтобы отрисовать иконки приложения и групп каналов. Пишите в telegram группу [@all_iptv_dune_plugin](https://taraflex.github.io/tg/#https://t.me/all_iptv_dune_plugin) или в [issues](https://github.com/Slev7nm/all-iptv-dune-plugin/issues).
+Ну и финансами естественно тоже можете помогать.
+
+[<img src="https://az743702.vo.msecnd.net/cdn/kofi5.png?v=2" width="202" alt="https://ko-fi.com/alliptv"/>](https://ko-fi.com/alliptv)
+
 > Зачем программе требуется доступ в сеть?
 
 Чтобы скачать неизвестные иконки каналов с vsetv.com и teleguide.info, для проверки обновлений, а также для отправки ошибок о конвертации. 
@@ -310,13 +340,7 @@ _:'иконка'
 
 Миром правят деньги! Часть рукожопости можно компенсировать привлечением дополнительных разработчиков, с более прямыми руками. 
 
-Ссылка на донат в приложении.
-
-> Хочу помочь в развитии! Как?
-
-Мы тоже хотим, чтобы нам помогали! Прямо сейчас нам нужен дизайнер, чтобы отрисовать иконки приложения и групп каналов. Пишите в telegram группу [@all_iptv_dune_plugin](https://taraflex.github.io/tg/#https://t.me/all_iptv_dune_plugin) или в [issues](https://github.com/Slev7nm/all-iptv-dune-plugin/issues).
-Ну и финансами естественно тоже можете помогать.
-https://ko-fi.com/alliptv
+[<img src="https://az743702.vo.msecnd.net/cdn/kofi5.png?v=2" width="202" alt="https://ko-fi.com/alliptv"/>](https://ko-fi.com/alliptv)
 
 > Хочу больше фичь! Почему вы такие медленные? 
 
