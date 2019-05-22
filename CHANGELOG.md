@@ -4,11 +4,10 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [1.7.0] - 2019-05-09
+## [1.7.0] - 2019-05-22
 
 ### Added
 - En локализация плагина
-- Обновление ранее установленного плагина по локальной сети
 - Новые провайдеры ip-tv.club fox-tv.fun tvoetv.in.ua strah.tv my.1ott.net shara.club voron.info sovok.tv tv.team sharavoz.tv
 - About страницы в dune плагине
 - Возможность обновления ранее установленного на dune плагина с автопоиском всех dune устройств в локальной сети
