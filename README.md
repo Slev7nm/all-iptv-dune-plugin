@@ -39,7 +39,7 @@ Unfortunately, the m3u contains only information about groups and channel names,
 - [greatiptv.cc](https://bill.greatiptv.cc/) (you can get a working playlist at t.greatiptv.cc/pl/{your token}/playlist.m3u; playlists from account will not work)  
 - [shura.tv](https://shura.tv/)
 - [ottclub.cc](https://ottclub.cc/)
-- [[https://cbilling.tv|https://cbilling.tv/?mode=signup&referral_id=564979]]
+- [[https://cbilling.tv/?mode=signup&referral_id=564979|alt=https://cbilling.tv]]
 - [edem.tv](https://edem.tv/)
 - [tvclub.cc](https://tvclub.cc/)
 - [shara-tv.org](https://shara-tv.org/)
