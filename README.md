@@ -15,6 +15,7 @@ We do not provide a plugin for a particular provider - you build it yourself!
 - Selection of channel schedules from http://www.vsetv.com/ and https://teleguide.info/
 - Archives for verified providers
 - MultiPlaylist
+- Update Plugin Platlists Via PC On Local Network
 
 ## How to use
 
@@ -26,8 +27,6 @@ Demo Video
 
 [![DEMO](http://img.youtube.com/vi/bny51TSvB7s/0.jpg)](https://www.youtube.com/watch?v=bny51TSvB7s)
 
-
-Also The Software supports the conversion of multiple playlists in one plugin. Demo - https://streamable.com/huql1
 
 Option to switch playlists in the generated plugin on the settings page
 
