@@ -18,7 +18,7 @@ We do not provide a plugin for a particular provider - you build it yourself!
 
 ## How to use
 
-Just drag the m3u / m3u8 playlist from any folder onto the application icon. Demo –[[https://youtu.be/bny51TSvB7s|Youtube]] 
+Just drag the m3u / m3u8 playlist from any folder onto the application icon. Demo – https://youtu.be/bny51TSvB7s 
 
 Also The Software supports the conversion of multiple playlists in one plugin. Demo - https://streamable.com/huql1
 
