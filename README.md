@@ -52,7 +52,7 @@ Unfortunately, the m3u contains only information about groups and channel names,
 - [schuriktv.nethouse.ru](https://schuriktv.nethouse.ru/) (supported playlists "Playlist M3U", "SIP Player M3U", "SIP Player M3U8")
 - [tv.team](http://tv.team/) (supported playlists "HLS", "HLS + archives", "Halva TV", "MPEG-TS")
 - [sharavoz.tv](https://www.sharavoz.tv/Account/Register?hash=_u5B0EY6S7sioGIS9XzyGaskFDu4NP48n9jhZlRBXDw=/) (channel list with archives support see in your account)
-- [kingmodiptv.top]((http://kingmodiptv.top/) (supported playlists tv.m3u) 
+- [kingmodiptv.top](http://kingmodiptv.top/) (supported playlists tv.m3u) 
 - [global-iptv.net](http://global-iptv.net/) (supported playlists tv.m3u)
 
 
@@ -234,7 +234,7 @@ All IPTV - программа для конвертации m3u/m3u8 плейл�
 - [schuriktv.nethouse.ru](https://schuriktv.nethouse.ru/) (поддерживаемые плейлисты "Playlist M3U", "SIP Player M3U", "SIP Player M3U8")
 - [tv.team](http://tv.team/) (поддерживаемые плейлисты "HLS", "HLS + архивы", "Halva TV", "MPEG-TS")
 - [sharavoz.tv](https://www.sharavoz.tv/Account/Register?hash=_u5B0EY6S7sioGIS9XzyGaskFDu4NP48n9jhZlRBXDw=/) (список каналов с архивами смотреть в личном кабинете)
-- [kingmodiptv.top]((http://kingmodiptv.top/)  (поддерживаемые плейлисты tv.m3u)
+- [kingmodiptv.top](http://kingmodiptv.top/)  (поддерживаемые плейлисты tv.m3u)
 - [global-iptv.net](http://global-iptv.net/) (поддерживаемые плейлисты tv.m3u)
 
 
