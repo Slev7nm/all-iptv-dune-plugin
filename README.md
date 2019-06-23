@@ -18,9 +18,9 @@ We do not provide a plugin for a particular provider - you build it yourself!
 
 ## How to use
 
-Just drag the m3u / m3u8 playlist from any folder onto the application icon. Demo – https://imgur.com/a/tZLKgYJ
+Just drag the m3u / m3u8 playlist from any folder onto the application icon. Demo – https://youtu.be/bny51TSvB7s
 
-Also The Software supports the conversion of multiple playlists in one plugin. Demo - https://imgur.com/a/4sEQxXy
+Also The Software supports the conversion of multiple playlists in one plugin. Demo - https://streamable.com/huql1
 
 Option to switch playlists in the generated plugin on the settings page
 
@@ -39,7 +39,7 @@ Unfortunately, the m3u contains only information about groups and channel names,
 - [greatiptv.cc](https://bill.greatiptv.cc/) (you can get a working playlist at t.greatiptv.cc/pl/{your token}/playlist.m3u; playlists from account will not work)  
 - [shura.tv](https://shura.tv/)
 - [ottclub.cc](https://ottclub.cc/)
-- [cbilling.tv](https://cbilling.tv/)
+- cbilling.tv  https://cbilling.tv/?mode=signup&referral_id=564979
 - [edem.tv](https://edem.tv/)
 - [tvclub.cc](https://tvclub.cc/)
 - [shara-tv.org](https://shara-tv.org/)
