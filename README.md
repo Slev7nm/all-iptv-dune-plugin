@@ -46,6 +46,9 @@ Unfortunately, the m3u contains only information about groups and channel names,
 - [schuriktv.nethouse.ru](https://schuriktv.nethouse.ru/) (supported playlists "Playlist M3U", "SIP Player M3U", "SIP Player M3U8")
 - [tv.team](http://tv.team/) (supported playlists "HLS", "HLS + archives", "Halva TV", "MPEG-TS")
 - [sharavoz.tv](https://www.sharavoz.tv/Account/Register?hash=_u5B0EY6S7sioGIS9XzyGaskFDu4NP48n9jhZlRBXDw=/) (channel list with archives support see in your account)
+- [kingmodiptv.top](kingmodiptv.top/)
+- [global-iptv.net](http://global-iptv.net/)
+
 
 ## List of verified providers (without archives)
 
