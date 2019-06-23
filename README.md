@@ -38,14 +38,14 @@ Unfortunately, the m3u contains only information about groups and channel names,
 - [itv.live](https://itv.live/) (supported playlists halvatv.m3u8, logom3u.m3u8, progdvb.m3u, ssiptv.m3u8, hls.m3u8, mpegs.m3u, perfectpl.m3u8, siptv.m3u; partial supported playlist ottplayeres.m3u8)
 - [greatiptv.cc](https://bill.greatiptv.cc/) (you can get a working playlist at t.greatiptv.cc/pl/{your token}/playlist.m3u; playlists from account will not work)  
 - [shura.tv](https://shura.tv/)
-- [ottclub.cc](https://ottclub.cc/)
+- [ottclub.cc](https://www.ottclub.cc/go/id/6698/)
 - [cbilling.tv](https://cbilling.tv/?mode=signup&referral_id=564979/)
-- [edem.tv](https://edem.tv/)
+- [edem.tv](https://edem.tv/welcome/register/2e46753ef3a66656/)
 - [tvclub.cc](https://tvclub.cc/)
 - [shara-tv.org](https://shara-tv.org/)
 - [schuriktv.nethouse.ru](https://schuriktv.nethouse.ru/) (supported playlists "Playlist M3U", "SIP Player M3U", "SIP Player M3U8")
 - [tv.team](http://tv.team/) (supported playlists "HLS", "HLS + archives", "Halva TV", "MPEG-TS")
-- [sharavoz.tv](https://www.sharavoz.tv/) (channel list with archives support see in your account)
+- [sharavoz.tv](https://www.sharavoz.tv/Account/Register?hash=_u5B0EY6S7sioGIS9XzyGaskFDu4NP48n9jhZlRBXDw=/) (channel list with archives support see in your account)
 
 ## List of verified providers (without archives)
 
