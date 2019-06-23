@@ -57,7 +57,7 @@ Unfortunately, the m3u contains only information about groups and channel names,
 - [shara.club](https://www.shara.club/reg-205521.html/)
 - [voron.info](http://voron.info/)
 - [sovok.tv](http://sovok.tv/register/?ruser=26692/) (required to enable "Группировать по категориям" -> "Спец полями" before downloading a playlist)
-- [http://ottglanz.tv](http://ottglanz.tv/billing.html/referrals//)
+- [ottglanz.tv](http://ottglanz.tv/partner/slev7n/) recommended HLS playlist 220+ channels.the HLS playlist 450+ is currently in the work on the server side
 
 ## Adding custom icons, groups, and more
 
