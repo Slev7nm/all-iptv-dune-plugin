@@ -49,14 +49,15 @@ Unfortunately, the m3u contains only information about groups and channel names,
 
 ## List of verified providers (without archives)
 
-- [ip-tv.club](http://ip-tv.club/) 
+- [ip-tv.club](https://ip-tv.club/partner/10437/) 
 - [fox-tv.fun](http://shop.fox-tv.fun/) ("M3U Plus" playlist recommended)
 - [tvoetv.in.ua](https://tvoetv.in.ua/)
-- [strah.tv](https://strah.tv/) (it is recommended to enable the option "MPEG-2 TS" before downloading a playlist)
+- [strah.tv](http://strah.tv/7004534/) (it is recommended to enable the option "MPEG-2 TS" before downloading a playlist)
 - [my.1ott.net](http://my.1ott.net/) ("ottnavm3u8.m3u8" playlist recommended)
-- [shara.club](https://shara.club/)
+- [shara.club](https://www.shara.club/reg-205521.html/)
 - [voron.info](http://voron.info/)
-- [sovok.tv](http://sovok.tv/) (required to enable "Группировать по категориям" -> "Спец полями" before downloading a playlist)
+- [sovok.tv](http://sovok.tv/register/?ruser=26692/) (required to enable "Группировать по категориям" -> "Спец полями" before downloading a playlist)
+- [http://ottglanz.tv](http://ottglanz.tv/billing.html/referrals//)
 
 ## Adding custom icons, groups, and more
 
