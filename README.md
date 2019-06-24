@@ -1,6 +1,3 @@
-[![Analytics](https://ga-beacon.appspot.com/UA-142612198-2/all-iptv-dune-plugin/README)](https://github.com/Slev7nm/all-iptv-dune-plugin)
-
-![Analytics](https://ga-beacon.appspot.com/UA-142612198-2/https://github.com/Slev7nm/all-iptv-dune-plugin)
 
 # All IPTV
 <img src="./logo.png" width="256" height="256">
