@@ -1,3 +1,4 @@
+<head>
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-142612198-1"></script>
 <script>
@@ -7,7 +8,7 @@
 
   gtag('config', 'UA-142612198-1');
 </script>
-
+</head>
 
 
 # All IPTV
