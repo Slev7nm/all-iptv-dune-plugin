@@ -1,4 +1,9 @@
-<HEAD>
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>My test page</title>
+  </head>
   <!-- Global site tag (gtag.js) - Google Analytics -->
  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-142612198-1"></script>
  <script>
@@ -8,7 +13,13 @@
 
    gtag('config', 'UA-142612198-1');
  </script>
-</head>
+  <body>
+    <p>This is my page</p>
+  </body>
+</html>
+
+  
+
 
   
 
