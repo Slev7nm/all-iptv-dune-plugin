@@ -8,6 +8,7 @@
 
   gtag('config', 'UA-142612198-1');
 </script>
+</head>
 
   
 
