@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+<html>
 <head>
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-142612198-1"></script>
