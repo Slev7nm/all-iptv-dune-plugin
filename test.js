@@ -1,3 +1,5 @@
+<html>
+<head>
 <!-- Google Analytics -->
 <script>
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -9,3 +11,4 @@ ga('create', 'UA-142612198-1', 'auto');
 ga('send', 'pageview');
 </script>
 <!-- End Google Analytics -->
+</head>
