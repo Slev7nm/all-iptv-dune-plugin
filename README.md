@@ -1,8 +1,5 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <!-- Global site tag (gtag.js) - Google Analytics -->
+<HEAD>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-142612198-1"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -11,11 +8,8 @@
 
   gtag('config', 'UA-142612198-1');
 </script>
-  </head>
-  <body>
-    <p>This is my page</p>
-  </body>
-</html>
+
+  
 
 # All IPTV
 <img src="./logo.png" width="256" height="256">
