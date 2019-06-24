@@ -54,6 +54,7 @@ Unfortunately, the m3u contains only information about groups and channel names,
 - [sharavoz.tv](https://www.sharavoz.tv/Account/Register?hash=_u5B0EY6S7sioGIS9XzyGaskFDu4NP48n9jhZlRBXDw=/) (channel list with archives support see in your account)
 - [kingmodiptv.top](http://kingmodiptv.top/) (supported playlists tv.m3u) 
 - [global-iptv.net](http://global-iptv.net/) (supported playlists tv.m3u)
+- [ontv.pro](https://bill.ontv.pro/account/register?ref=1627&c=1667)
 
 
 ## List of verified providers (without archives)
@@ -236,6 +237,7 @@ All IPTV - программа для конвертации m3u/m3u8 плейл�
 - [sharavoz.tv](https://www.sharavoz.tv/Account/Register?hash=_u5B0EY6S7sioGIS9XzyGaskFDu4NP48n9jhZlRBXDw=/) (список каналов с архивами смотреть в личном кабинете)
 - [kingmodiptv.top](http://kingmodiptv.top/)  (поддерживаемые плейлисты tv.m3u)
 - [global-iptv.net](http://global-iptv.net/) (поддерживаемые плейлисты tv.m3u)
+- [ontv.pro](https://bill.ontv.pro/account/register?ref=1627&c=1667)
 
 
 ## Список проверенных провайдеров (без архивов)
