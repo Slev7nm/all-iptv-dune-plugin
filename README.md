@@ -1,4 +1,4 @@
-
+[![Analytics](https://ga-beacon.appspot.com/UA-142612198-2/welcome-page)](https://github.com/Slev7nm/all-iptv-dune-plugin)
   
 
 # All IPTV
