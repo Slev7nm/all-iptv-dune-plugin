@@ -1,3 +1,5 @@
+<html>
+<head>
 &lt;!-- Google Analytics --&gt;
 &lt;script&gt;
 window.ga = window.ga || function () {(ga.q = ga.q || []).push(arguments);};
@@ -25,3 +27,4 @@ visibleThreshold: 2000,
 &lt;script async
 src="http://u413821vc7.ha002.t.justns.ru/autotrack.js"&gt;&lt;/script&gt;
 &lt;!-- End Google Analytics --&gt;
+</head>
