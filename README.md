@@ -1,18 +1,21 @@
 # All IPTV
+
 <img src="./1000x1000.png" width="256" height="256">
+
 # [EN]
 
 [Download latest version](https://github.com/Slev7nm/all-iptv-dune-plugin/releases/latest)
 
 All IPTV is a program for converting m3u / m3u8 playlists of any iptv provider into a plugin for viewing iptv on Dune HD Players.
 We do not provide a plugin for a particular provider - you build it yourself!
-Demo Video
+
+## Demo Video
 [![DEMO](http://img.youtube.com/vi/bny51TSvB7s/0.jpg)](https://www.youtube.com/watch?v=bny51TSvB7s)
 
 
 ## How to use
 
-Register on one of the Verified IPTV Provaiders
+## Register on one of the Verified IPTV Provaiders
 
 Just drag the m3u / m3u8 playlist from any folder onto the application icon.
 Also The Software supports the conversion of multiple playlists in one plugin.
@@ -20,18 +23,18 @@ Also The Software supports the conversion of multiple playlists in one plugin.
 
 ## List of verified IPTV providers
 
-- [sharavoz.tv](http://monitor.lol/www.sharavoz.tv/) (channel list with archives support see in your account)  -- BEST PROVAIDER ( 3$ - 900 Channels + Movies )
-- [cbilling.tv](http://monitor.lol/https://cbilling.tv/)  (Also Very Good Provider )
+- [sharavoz.tv](http://monitor.lol/www.sharavoz.tv/) 
+- [cbilling.tv](http://monitor.lol/https://cbilling.tv/)
 - [ottclub.cc](http://monitor.lol/www.ottclub.cc/)
 - [kineskop.club](http://monitor.lol/http://kineskop.club/)
 - [antifriz](http://monitor.lol/https://antifriz.tv)
 - [shara-tv.org](https://shara-tv.org/)  
 - [topiptv.info](http://monitor.lol/https://topiptv.info/)
-- [itv.live](http://monitor.lol/https://itv.live/) (supported playlists halvatv.m3u8, logom3u.m3u8, progdvb.m3u, ssiptv.m3u8, hls.m3u8, mpegs.m3u, perfectpl.m3u8, siptv.m3u; partial supported playlist ottplayeres.m3u8)
+- [itv.live](http://monitor.lol/https://itv.live/) 
 - [edem.tv](http://monitor.lol/edem.tv/)
 - [crdru.net](http://monitor.lol/https://www.crdru.net/)
 - [ip-tv.club](http://monitor.lol/ip-tv.club/)
-- [strah.tv](http://monitor.lol/strah.tv/) (it is recommended to enable the option "MPEG-2 TS" before downloading a playlist)
+- [strah.tv](http://monitor.lol/strah.tv/) 
 - [shara.club](http://monitor.lol/www.shara.club/)
 - [sovok.tv](http://monitor.lol/sovok.tv/)
 
