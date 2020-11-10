@@ -32,16 +32,6 @@ Demo Video
 [![DEMO](http://img.youtube.com/vi/bny51TSvB7s/0.jpg)](https://www.youtube.com/watch?v=bny51TSvB7s)
 
 
-Option to switch playlists in the generated plugin on the settings page
-
-## Working With The Software
-
-If your provider provides the ability to download playlist channels in the formats m3u/m3u8, then with the help of this converter you can turn it into a plugin for Dune HD with your own hands. We tried to reduce the number of settings to a minimum and reduce the conversion process to a few clicks and the plugin is ready to installation.
-
-No services! No paid subscriptions! No restrictions - download the program only once and Convert as much as you want.
-During processing, the program will intellectually try to find icons, a schedule, and archives to the list of channels from m3u playlist that you choose to convert.
-
-Unfortunately, the m3u contains only information about groups and channel names, and the channel names themselves are named in any form (often also with typos), that is why a small part of the channels may not be converted in the generated plug-in. In this case, you can watch them, but without additional features. If you have a lot of patience, then you can correct this moment by manually writing configs for them.
 
 ## List of verified providers
 
@@ -78,6 +68,24 @@ Unfortunately, the m3u contains only information about groups and channel names,
 - [ontv.pro](http://monitor.lol/bill.ontv.pro)
 - [shura.tv](https://shura.tv/)
 - [tvclub.cc](https://tvclub.cc/)
+
+
+Option to switch playlists in the generated plugin on the settings page
+
+## Working With The Software
+
+If your provider provides the ability to download playlist channels in the formats m3u/m3u8, then with the help of this converter you can turn it into a plugin for Dune HD with your own hands. We tried to reduce the number of settings to a minimum and reduce the conversion process to a few clicks and the plugin is ready to installation.
+
+No services! No paid subscriptions! No restrictions - download the program only once and Convert as much as you want.
+During processing, the program will intellectually try to find icons, a schedule, and archives to the list of channels from m3u playlist that you choose to convert.
+
+Unfortunately, the m3u contains only information about groups and channel names, and the channel names themselves are named in any form (often also with typos), that is why a small part of the channels may not be converted in the generated plug-in. In this case, you can watch them, but without additional features. If you have a lot of patience, then you can correct this moment by manually writing configs for them.
+
+
+
+
+
+
 ## Adding custom icons, groups, and more
 
 You can change the parameters of channels and icons of standard groups.
