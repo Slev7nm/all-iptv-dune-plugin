@@ -16,7 +16,7 @@ We do not provide a plugin for a particular provider - you build it yourself!
 
 - Categories with icons
 - Selection of channel icons
-<!--- Selection of channel schedules from http://www.vsetv.com/ and https://teleguide.info/ --->
+<!-- Selection of channel schedules from http://www.vsetv.com/ and https://teleguide.info/
 - Archives for verified providers
 - MultiPlaylist
 - Update Plugin Platlists Via PC On Local Network
