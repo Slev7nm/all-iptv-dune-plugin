@@ -2,6 +2,7 @@
 
 
 # All IPTV
+<img src=https://gomel-sat.bz/uploads/monthly_2019_06/1000x1000.png.f8ae215191ac98126d456608cfe902c4.png
 <img src="./logo.png" width="256" height="256">
 
 # [EN]
