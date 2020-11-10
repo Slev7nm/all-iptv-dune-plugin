@@ -16,7 +16,7 @@ We do not provide a plugin for a particular provider - you build it yourself!
 
 - Categories with icons
 - Selection of channel icons
-- Selection of channel schedules from http://www.vsetv.com/ and https://teleguide.info/
+#- Selection of channel schedules from http://www.vsetv.com/ and https://teleguide.info/
 - Archives for verified providers
 - MultiPlaylist
 - Update Plugin Platlists Via PC On Local Network
@@ -54,7 +54,6 @@ Unfortunately, the m3u contains only information about groups and channel names,
 - [topiptv.info](http://monitor.lol/https://topiptv.info/)
 - [itv.live](http://monitor.lol/https://itv.live/) (supported playlists halvatv.m3u8, logom3u.m3u8, progdvb.m3u, ssiptv.m3u8, hls.m3u8, mpegs.m3u, perfectpl.m3u8, siptv.m3u; partial supported playlist ottplayeres.m3u8)
 - [edem.tv](http://monitor.lol/edem.tv/)
-- [shura.tv](https://shura.tv/)
 - [crdru.net](http://monitor.lol/https://www.crdru.net/)
 - [ip-tv.club](http://monitor.lol/ip-tv.club/)
 - [strah.tv](http://monitor.lol/strah.tv/) (it is recommended to enable the option "MPEG-2 TS" before downloading a playlist)
@@ -77,6 +76,7 @@ Unfortunately, the m3u contains only information about groups and channel names,
 - [kingmodiptv.top](http://kingmodiptv.top/) (supported playlists tv.m3u) 
 - [global-iptv.net](http://global-iptv.net/) (supported playlists tv.m3u)
 - [ontv.pro](http://monitor.lol/bill.ontv.pro)
+- [shura.tv](https://shura.tv/)
 - [tvclub.cc](https://tvclub.cc/)
 ## Adding custom icons, groups, and more
 
