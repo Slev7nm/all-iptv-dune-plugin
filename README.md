@@ -50,6 +50,7 @@ Unfortunately, the m3u contains only information about groups and channel names,
 - [ottclub.cc](http://monitor.lol/www.ottclub.cc/)
 - [http://kineskop.club/](http://monitor.lol/http://kineskop.club/)
 - [shara-tv.org](https://shara-tv.org/)  
+- [https://topiptv.info/r.php?ref=slev7n](http://monitor.lol/https://topiptv.info/r.php?ref=slev7n)
 - [shura.tv](https://shura.tv/)
 - [edem.tv](http://monitor.lol/edem.tv/)
 - [tvclub.cc](https://tvclub.cc/)
