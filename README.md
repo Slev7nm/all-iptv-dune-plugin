@@ -52,31 +52,32 @@ Unfortunately, the m3u contains only information about groups and channel names,
 - [antifriz](http://monitor.lol/https://antifriz.tv)
 - [shara-tv.org](https://shara-tv.org/)  
 - [topiptv.info](http://monitor.lol/https://topiptv.info/)
-- [itv.live](https://itv.live/) (supported playlists halvatv.m3u8, logom3u.m3u8, progdvb.m3u, ssiptv.m3u8, hls.m3u8, mpegs.m3u, perfectpl.m3u8, siptv.m3u; partial supported playlist ottplayeres.m3u8)
+- [itv.live](http://monitor.lol/https://itv.live/) (supported playlists halvatv.m3u8, logom3u.m3u8, progdvb.m3u, ssiptv.m3u8, hls.m3u8, mpegs.m3u, perfectpl.m3u8, siptv.m3u; partial supported playlist ottplayeres.m3u8)
 - [edem.tv](http://monitor.lol/edem.tv/)
 - [shura.tv](https://shura.tv/)
 - [crdru.net](http://monitor.lol/https://www.crdru.net/)
-- [tvclub.cc](https://tvclub.cc/)
+- [ip-tv.club](http://monitor.lol/ip-tv.club/)
+- [strah.tv](http://monitor.lol/strah.tv/) (it is recommended to enable the option "MPEG-2 TS" before downloading a playlist)
+- [shara.club](http://monitor.lol/www.shara.club/)
+- [sovok.tv](http://monitor.lol/sovok.tv/)
+
+
+## List of verified providers (without archives)
+
+
+- [fox-tv.fun](http://shop.fox-tv.fun/) ("M3U Plus" playlist recommended)
+- [tvoetv.in.ua](https://tvoetv.in.ua/)
+- [my.1ott.net](http://my.1ott.net/) ("ottnavm3u8.m3u8" playlist recommended)
+- [voron.info](http://voron.info/)
+ (required to enable "Группировать по категориям" -> "Спец полями" before downloading a playlist)
+- [ottglanz.tv](http://monitor.lol/ottglanz.tv/) recommended HLS playlist 220+ channels.the HLS playlist 450+ is currently in the work on the server side
 - [schuriktv.nethouse.ru](https://schuriktv.nethouse.ru/) (supported playlists "Playlist M3U", "SIP Player M3U", "SIP Player M3U8")
 - [tv.team](http://tv.team/) (supported playlists "HLS", "HLS + archives", "Halva TV", "MPEG-TS")
 - [greatiptv.cc](https://bill.greatiptv.cc/) (you can get a working playlist at t.greatiptv.cc/pl/{your token}/playlist.m3u; playlists from account will not work)
 - [kingmodiptv.top](http://kingmodiptv.top/) (supported playlists tv.m3u) 
 - [global-iptv.net](http://global-iptv.net/) (supported playlists tv.m3u)
 - [ontv.pro](http://monitor.lol/bill.ontv.pro)
-
-
-## List of verified providers (without archives)
-
-- [ip-tv.club](http://monitor.lol/ip-tv.club/) 
-- [fox-tv.fun](http://shop.fox-tv.fun/) ("M3U Plus" playlist recommended)
-- [tvoetv.in.ua](https://tvoetv.in.ua/)
-- [strah.tv](http://monitor.lol/strah.tv/) (it is recommended to enable the option "MPEG-2 TS" before downloading a playlist)
-- [my.1ott.net](http://my.1ott.net/) ("ottnavm3u8.m3u8" playlist recommended)
-- [shara.club](http://monitor.lol/www.shara.club/)
-- [voron.info](http://voron.info/)
-- [sovok.tv](http://monitor.lol/sovok.tv/) (required to enable "Группировать по категориям" -> "Спец полями" before downloading a playlist)
-- [ottglanz.tv](http://monitor.lol/ottglanz.tv/) recommended HLS playlist 220+ channels.the HLS playlist 450+ is currently in the work on the server side
-
+- [tvclub.cc](https://tvclub.cc/)
 ## Adding custom icons, groups, and more
 
 You can change the parameters of channels and icons of standard groups.
