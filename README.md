@@ -55,6 +55,7 @@ Unfortunately, the m3u contains only information about groups and channel names,
 - [itv.live](https://itv.live/) (supported playlists halvatv.m3u8, logom3u.m3u8, progdvb.m3u, ssiptv.m3u8, hls.m3u8, mpegs.m3u, perfectpl.m3u8, siptv.m3u; partial supported playlist ottplayeres.m3u8)
 - [edem.tv](http://monitor.lol/edem.tv/)
 - [shura.tv](https://shura.tv/)
+- [crdru.net](http://monitor.lol/https://www.crdru.net/)
 - [tvclub.cc](https://tvclub.cc/)
 - [schuriktv.nethouse.ru](https://schuriktv.nethouse.ru/) (supported playlists "Playlist M3U", "SIP Player M3U", "SIP Player M3U8")
 - [tv.team](http://tv.team/) (supported playlists "HLS", "HLS + archives", "Halva TV", "MPEG-TS")
