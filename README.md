@@ -49,20 +49,21 @@ Unfortunately, the m3u contains only information about groups and channel names,
 - [cbilling.tv](http://monitor.lol/https://cbilling.tv/)  (Also Very Good Provider )
 - [ottclub.cc](http://monitor.lol/www.ottclub.cc/)
 - [kineskop.club](http://monitor.lol/http://kineskop.club/)
+- [antifriz](http://monitor.lol/https://antifriz.tv)
 - [shara-tv.org](https://shara-tv.org/)  
 - [topiptv.info](http://monitor.lol/https://topiptv.info/)
-- [shura.tv](https://shura.tv/)
+- [itv.live](https://itv.live/) (supported playlists halvatv.m3u8, logom3u.m3u8, progdvb.m3u, ssiptv.m3u8, hls.m3u8, mpegs.m3u, perfectpl.m3u8, siptv.m3u; partial supported playlist ottplayeres.m3u8)
 - [edem.tv](http://monitor.lol/edem.tv/)
+- [shura.tv](https://shura.tv/)
 - [tvclub.cc](https://tvclub.cc/)
-
 - [schuriktv.nethouse.ru](https://schuriktv.nethouse.ru/) (supported playlists "Playlist M3U", "SIP Player M3U", "SIP Player M3U8")
 - [tv.team](http://tv.team/) (supported playlists "HLS", "HLS + archives", "Halva TV", "MPEG-TS")
 - [greatiptv.cc](https://bill.greatiptv.cc/) (you can get a working playlist at t.greatiptv.cc/pl/{your token}/playlist.m3u; playlists from account will not work)
 - [kingmodiptv.top](http://kingmodiptv.top/) (supported playlists tv.m3u) 
 - [global-iptv.net](http://global-iptv.net/) (supported playlists tv.m3u)
 - [ontv.pro](http://monitor.lol/bill.ontv.pro)
-- [antifriz](http://monitor.lol/https://antifriz.tv)
-- [itv.live](https://itv.live/) (supported playlists halvatv.m3u8, logom3u.m3u8, progdvb.m3u, ssiptv.m3u8, hls.m3u8, mpegs.m3u, perfectpl.m3u8, siptv.m3u; partial supported playlist ottplayeres.m3u8)
+
+
 ## List of verified providers (without archives)
 
 - [ip-tv.club](http://monitor.lol/ip-tv.club/) 
