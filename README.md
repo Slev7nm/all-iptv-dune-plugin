@@ -47,6 +47,7 @@ Unfortunately, the m3u contains only information about groups and channel names,
 - [sharavoz.tv](http://monitor.lol/www.sharavoz.tv/) (channel list with archives support see in your account)  -- BEST PROVAIDER ( 3$ - 900 Channels + Movies )
 - [cbilling.tv](http://monitor.lol/https://cbilling.tv/)  (Also Very Good Provider )
 - [ottclub.cc](http://monitor.lol/www.ottclub.cc/)
+- [http://kineskop.club/](http://monitor.lol/http://kineskop.club/)
 - [greatiptv.cc](https://bill.greatiptv.cc/) (you can get a working playlist at t.greatiptv.cc/pl/{your token}/playlist.m3u; playlists from account will not work)  
 - [shura.tv](https://shura.tv/)
 - [edem.tv](http://monitor.lol/edem.tv/)
