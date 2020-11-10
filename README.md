@@ -49,14 +49,14 @@ Unfortunately, the m3u contains only information about groups and channel names,
 - [cbilling.tv](http://monitor.lol/https://cbilling.tv/)  (Also Very Good Provider )
 - [ottclub.cc](http://monitor.lol/www.ottclub.cc/)
 - [http://kineskop.club/](http://monitor.lol/http://kineskop.club/)
-- [greatiptv.cc](https://bill.greatiptv.cc/) (you can get a working playlist at t.greatiptv.cc/pl/{your token}/playlist.m3u; playlists from account will not work)  
+- [shara-tv.org](https://shara-tv.org/)  
 - [shura.tv](https://shura.tv/)
 - [edem.tv](http://monitor.lol/edem.tv/)
 - [tvclub.cc](https://tvclub.cc/)
-- [shara-tv.org](https://shara-tv.org/)
+
 - [schuriktv.nethouse.ru](https://schuriktv.nethouse.ru/) (supported playlists "Playlist M3U", "SIP Player M3U", "SIP Player M3U8")
 - [tv.team](http://tv.team/) (supported playlists "HLS", "HLS + archives", "Halva TV", "MPEG-TS")
-
+- [greatiptv.cc](https://bill.greatiptv.cc/) (you can get a working playlist at t.greatiptv.cc/pl/{your token}/playlist.m3u; playlists from account will not work)
 - [kingmodiptv.top](http://kingmodiptv.top/) (supported playlists tv.m3u) 
 - [global-iptv.net](http://global-iptv.net/) (supported playlists tv.m3u)
 - [ontv.pro](http://monitor.lol/bill.ontv.pro)
