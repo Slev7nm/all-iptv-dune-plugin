@@ -1,39 +1,24 @@
-
-
-
 # All IPTV
-
 <img src="./1000x1000.png" width="256" height="256">
-
 # [EN]
 
 [Download latest version](https://github.com/Slev7nm/all-iptv-dune-plugin/releases/latest)
 
 All IPTV is a program for converting m3u / m3u8 playlists of any iptv provider into a plugin for viewing iptv on Dune HD Players.
 We do not provide a plugin for a particular provider - you build it yourself!
-
-## Main features
-
-- Categories with icons
-- Selection of channel icons
-<!--- Selection of channel schedules from http://www.vsetv.com/ and https://teleguide.info/ --->.
-- Archives for verified providers
-- MultiPlaylist
-- Update Plugin Platlists Via PC On Local Network
-
-## How to use
-
-Just drag the m3u / m3u8 playlist from any folder onto the application icon.
-
-Also The Software supports the conversion of multiple playlists in one plugin.
-
 Demo Video
-
 [![DEMO](http://img.youtube.com/vi/bny51TSvB7s/0.jpg)](https://www.youtube.com/watch?v=bny51TSvB7s)
 
 
+## How to use
 
-## List of verified providers
+Register on one of the Verified IPTV Provaiders
+
+Just drag the m3u / m3u8 playlist from any folder onto the application icon.
+Also The Software supports the conversion of multiple playlists in one plugin.
+
+
+## List of verified IPTV providers
 
 - [sharavoz.tv](http://monitor.lol/www.sharavoz.tv/) (channel list with archives support see in your account)  -- BEST PROVAIDER ( 3$ - 900 Channels + Movies )
 - [cbilling.tv](http://monitor.lol/https://cbilling.tv/)  (Also Very Good Provider )
