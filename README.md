@@ -3,7 +3,7 @@
 
 # All IPTV
 
-<img src="./logo.png" width="256" height="256">
+<img src="./1000x1000.png" width="256" height="256">
 
 # [EN]
 
