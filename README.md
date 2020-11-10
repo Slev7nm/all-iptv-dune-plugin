@@ -3,7 +3,7 @@
 
 # All IPTV
 
-<img src="./1000x1000.png" width="256" height="256">
+<img src="./1000x1000.png" width="512" height="512">
 
 # [EN]
 
@@ -48,9 +48,9 @@ Unfortunately, the m3u contains only information about groups and channel names,
 - [sharavoz.tv](http://monitor.lol/www.sharavoz.tv/) (channel list with archives support see in your account)  -- BEST PROVAIDER ( 3$ - 900 Channels + Movies )
 - [cbilling.tv](http://monitor.lol/https://cbilling.tv/)  (Also Very Good Provider )
 - [ottclub.cc](http://monitor.lol/www.ottclub.cc/)
-- [kineskop.club/](http://monitor.lol/http://kineskop.club/)
+- [kineskop.club](http://monitor.lol/http://kineskop.club/)
 - [shara-tv.org](https://shara-tv.org/)  
-- [topiptv.info](http://monitor.lol/https://topiptv.info/r.php?ref=slev7n)
+- [topiptv.info](http://monitor.lol/https://topiptv.info/)
 - [shura.tv](https://shura.tv/)
 - [edem.tv](http://monitor.lol/edem.tv/)
 - [tvclub.cc](https://tvclub.cc/)
