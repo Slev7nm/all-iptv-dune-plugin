@@ -37,7 +37,7 @@ Also The Software supports the conversion of multiple playlists in one plugin.
 - [strah.tv](http://monitor.lol/strah.tv/) 
 - [shara.club](http://monitor.lol/www.shara.club/)
 - [sovok.tv](http://monitor.lol/sovok.tv/)
-- [tv.team](http://monitor.lol/http://tv.team/)
+- [tv.team](http://monitor.lol/https://tv.team)
 
 ## List of verified providers (without archives)
 
