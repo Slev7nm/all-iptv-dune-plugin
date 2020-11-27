@@ -37,7 +37,7 @@ Also The Software supports the conversion of multiple playlists in one plugin.
 - [strah.tv](http://monitor.lol/strah.tv/) 
 - [shara.club](http://monitor.lol/www.shara.club/)
 - [sovok.tv](http://monitor.lol/sovok.tv/)
-
+- [tv.team](http://monitor.lol/http://tv.team/)
 
 ## List of verified providers (without archives)
 
@@ -49,7 +49,7 @@ Also The Software supports the conversion of multiple playlists in one plugin.
  (required to enable "Группировать по категориям" -> "Спец полями" before downloading a playlist)
 - [ottglanz.tv](http://monitor.lol/ottglanz.tv/) recommended HLS playlist 220+ channels.the HLS playlist 450+ is currently in the work on the server side
 - [schuriktv.nethouse.ru](https://schuriktv.nethouse.ru/) (supported playlists "Playlist M3U", "SIP Player M3U", "SIP Player M3U8")
-- [tv.team](http://tv.team/) (supported playlists "HLS", "HLS + archives", "Halva TV", "MPEG-TS")
+
 - [greatiptv.cc](https://bill.greatiptv.cc/) (you can get a working playlist at t.greatiptv.cc/pl/{your token}/playlist.m3u; playlists from account will not work)
 - [kingmodiptv.top](http://kingmodiptv.top/) (supported playlists tv.m3u) 
 - [global-iptv.net](http://global-iptv.net/) (supported playlists tv.m3u)
