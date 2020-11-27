@@ -24,7 +24,7 @@ Also The Software supports the conversion of multiple playlists in one plugin.
 ## List of verified IPTV providers
 
 - [sharavoz.tv](http://monitor.lol/www.sharavoz.tv/) 
-- [cbilling.tv](http://monitor.lol/https://cbilling.tv/)
+- [cbilling.tv](http://monitor.lol/http://cbillingtv.net/)
 - [ottclub.cc](http://monitor.lol/www.ottclub.cc/)
 - [kineskop.club](http://monitor.lol/http://kineskop.club/)
 - [antifriz](http://monitor.lol/https://antifriz.tv)
