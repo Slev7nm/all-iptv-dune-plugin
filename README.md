@@ -136,7 +136,7 @@ _:'icon'
 
 There are a lot of providers, they appear and disappear. At the same time, there is no single standard for specifying the syntax of archives via the m3u playlist. Each provider provides them as they feel needed to. We have added and tested the most popular providers in our opinion.
 
-If your provider is not in the list of supported, then write to us in the telegram group [@all_iptv_dune_plugin](https://taraflex.github.io/tg/#https://t.me/all_iptv_dune_plugin) or in [issues](https://github.com/Slev7nm/all-iptv-dune-plugin/issues) - we will add it.
+If your provider is not in the list of supported, then write to us in the telegram group [@all_iptv_dune_plugin](https://t.me/all_iptv_dune_plugin) or in [issues](https://github.com/Slev7nm/all-iptv-dune-plugin/issues) - we will add it.
 
 > Configs inconvenient to edit. Can you do something about it?
 
@@ -152,14 +152,13 @@ We do not mind if someone draws them more decently or offers alternative options
 
 > My iptv provider does not provide m3u. Can I still use your program somehow?
 
-Write us in the telegram group [@all_iptv_dune_plugin](https://taraflex.github.io/tg/#https://t.me/all_iptv_dune_plugin) or in [issues](https://github.com/Slev7nm/all-iptv-dune-plugin/issues). We will consider the possibility of adding additional formats to the parser.
+Write us in the telegram group [@all_iptv_dune_plugin](https://t.me/all_iptv_dune_plugin) or in [issues](https://github.com/Slev7nm/all-iptv-dune-plugin/issues). We will consider the possibility of adding additional formats to the parser.
 
 > I want to help in the development! How?
 
 We also want to help us! Right now, we need a designer to draw application icons and channel groups. Write to the telegram group [@all_iptv_dune_plugin](https://taraflex.github.io/tg/#https://t.me/all_iptv_dune_plugin) or to [issues](https://github.com/Slev7nm/all-iptv-dune-plugin/issues). 
 Well, of course, you can also help with finances.
 
-[<img src="https://az743702.vo.msecnd.net/cdn/kofi5.png?v=2" width="202" alt="https://ko-fi.com/alliptv"/>](https://ko-fi.com/alliptv)
 
 > Why does the program need access to the network?
 
@@ -182,9 +181,6 @@ Yes
 
 Well... nothing working at all... probably...
 
-The world is ruled by money! So If You Left Handed Hands This can be compensated by the involvement of additional developers, with two normal working hands.
-
-[<img src="https://az743702.vo.msecnd.net/cdn/kofi5.png?v=2" width="202" alt="https://ko-fi.com/alliptv"/>](https://ko-fi.com/alliptv)
 
 > I want more features! Why are you so slow?
 
@@ -317,7 +313,7 @@ _:'иконка'
 
 Провайдеров очень много, они появляются и исчезают. Одновременно с этим не существует единого стандарта указания расположения архивов через m3u плейлист. Каждый провайдер предоставляет их как захочет. Мы добавили и протестировали наиболее популярных провайдеров на наш взгляд.
 
-Если вашего провайдера нет в списке поддерживаемых, то напишите нам в telegram группу [@all_iptv_dune_plugin](https://taraflex.github.io/tg/#https://t.me/all_iptv_dune_plugin) или в [issues](https://github.com/Slev7nm/all-iptv-dune-plugin/issues) - мы его добавим.
+Если вашего провайдера нет в списке поддерживаемых, то напишите нам в telegram группу [@all_iptv_dune_plugin](https://t.me/all_iptv_dune_plugin) или в [issues](https://github.com/Slev7nm/all-iptv-dune-plugin/issues) - мы его добавим.
 
 > Конфиги неудобно редактировать. Можете сделать с этим что-нибудь?
 
@@ -333,14 +329,13 @@ _:'иконка'
 
 > Мой iptv провайдер не предоставляет m3u. Могу ли я все равно как-нибудь использовать вашу программу?
 
-Напишите нам в telegram группу [@all_iptv_dune_plugin](https://taraflex.github.io/tg/#https://t.me/all_iptv_dune_plugin) или в [issues](https://github.com/Slev7nm/all-iptv-dune-plugin/issues). Мы рассмотрим возможность добавления в парсер дополнительных форматов.
+Напишите нам в telegram группу [@all_iptv_dune_plugin](https://t.me/all_iptv_dune_plugin) или в [issues](https://github.com/Slev7nm/all-iptv-dune-plugin/issues). Мы рассмотрим возможность добавления в парсер дополнительных форматов.
 
 > Хочу помочь в развитии! Как?
 
-Мы тоже хотим, чтобы нам помогали! Прямо сейчас нам нужен дизайнер, чтобы отрисовать иконки приложения и групп каналов. Пишите в telegram группу [@all_iptv_dune_plugin](https://taraflex.github.io/tg/#https://t.me/all_iptv_dune_plugin) или в [issues](https://github.com/Slev7nm/all-iptv-dune-plugin/issues).
+Мы тоже хотим, чтобы нам помогали! Прямо сейчас нам нужен дизайнер, чтобы отрисовать иконки приложения и групп каналов. Пишите в telegram группу [@all_iptv_dune_plugin](https://t.me/all_iptv_dune_plugin) или в [issues](https://github.com/Slev7nm/all-iptv-dune-plugin/issues).
 Ну и финансами естественно тоже можете помогать.
 
-[<img src="https://az743702.vo.msecnd.net/cdn/kofi5.png?v=2" width="202" alt="https://ko-fi.com/alliptv"/>](https://ko-fi.com/alliptv)
 
 > Зачем программе требуется доступ в сеть?
 
@@ -362,9 +357,6 @@ _:'иконка'
 
 Нуу... совсем ничего не работать не может... наверное...
 
-Миром правят деньги! Часть рукожопости можно компенсировать привлечением дополнительных разработчиков, с более прямыми руками. 
-
-[<img src="https://az743702.vo.msecnd.net/cdn/kofi5.png?v=2" width="202" alt="https://ko-fi.com/alliptv"/>](https://ko-fi.com/alliptv)
 
 > Хочу больше фичь! Почему вы такие медленные? 
 
