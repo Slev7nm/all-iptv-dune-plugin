@@ -4,7 +4,7 @@
 
 # [EN]
 
-[Download latest version](https://ohlone-my.sharepoint.com/personal/jberman1_student_ohlone_edu/Documents/all_iptv-1.7.1.zip)
+[Download latest version](https://github.com/Slev7nm/all-iptv-dune-plugin/releases/download/1.7.1/all_iptv-1.7.1.zip)
 
 All IPTV is a program for converting m3u / m3u8 playlists of any iptv provider into a plugin for viewing iptv on Dune HD Players.
 We do not provide a plugin for a particular provider - you build it yourself!
@@ -194,7 +194,7 @@ The world is ruled by money! So If You Left Handed Hands This can be compensated
 
 <img src="./1000x1000.png" width="256" height="256">
 
-[Скачать последнюю версию](https://ohlone-my.sharepoint.com/personal/jberman1_student_ohlone_edu/Documents/all_iptv-1.7.1.zip)
+[Скачать последнюю версию](https://github.com/Slev7nm/all-iptv-dune-plugin/releases/download/1.7.1/all_iptv-1.7.1.zip)
 
 All IPTV - программа для конвертации m3u/m3u8 плейлиста любого iptv провайдера в плагин для просмотра iptv на приставках Dune HD.
 Мы не предоставляем плагин под какого-то конкретного провайдера - вы собираете его сами!
